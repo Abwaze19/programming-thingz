@@ -1,0 +1,5 @@
+c:\Users\AB\Documents\my_projects\c#_projects\guessingame\obj\Debug\net7.0\Guessin__game.csproj.AssemblyReference.cache
+c:\Users\AB\Documents\my_projects\c#_projects\guessingame\obj\Debug\net7.0\Guessin__game.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\AB\Documents\my_projects\c#_projects\guessingame\obj\Debug\net7.0\Guessin__game.AssemblyInfoInputs.cache
+c:\Users\AB\Documents\my_projects\c#_projects\guessingame\obj\Debug\net7.0\Guessin__game.AssemblyInfo.cs
+c:\Users\AB\Documents\my_projects\c#_projects\guessingame\obj\Debug\net7.0\Guessin__game.csproj.CoreCompileInputs.cache

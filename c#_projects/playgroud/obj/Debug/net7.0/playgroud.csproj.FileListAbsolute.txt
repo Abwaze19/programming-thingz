@@ -1,0 +1,15 @@
+c:\Users\AB\Documents\my_projects\c#_projects\playgroud\bin\Debug\net7.0\playgroud.exe
+c:\Users\AB\Documents\my_projects\c#_projects\playgroud\bin\Debug\net7.0\playgroud.deps.json
+c:\Users\AB\Documents\my_projects\c#_projects\playgroud\bin\Debug\net7.0\playgroud.runtimeconfig.json
+c:\Users\AB\Documents\my_projects\c#_projects\playgroud\bin\Debug\net7.0\playgroud.dll
+c:\Users\AB\Documents\my_projects\c#_projects\playgroud\bin\Debug\net7.0\playgroud.pdb
+c:\Users\AB\Documents\my_projects\c#_projects\playgroud\obj\Debug\net7.0\playgroud.csproj.AssemblyReference.cache
+c:\Users\AB\Documents\my_projects\c#_projects\playgroud\obj\Debug\net7.0\playgroud.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\AB\Documents\my_projects\c#_projects\playgroud\obj\Debug\net7.0\playgroud.AssemblyInfoInputs.cache
+c:\Users\AB\Documents\my_projects\c#_projects\playgroud\obj\Debug\net7.0\playgroud.AssemblyInfo.cs
+c:\Users\AB\Documents\my_projects\c#_projects\playgroud\obj\Debug\net7.0\playgroud.csproj.CoreCompileInputs.cache
+c:\Users\AB\Documents\my_projects\c#_projects\playgroud\obj\Debug\net7.0\playgroud.dll
+c:\Users\AB\Documents\my_projects\c#_projects\playgroud\obj\Debug\net7.0\refint\playgroud.dll
+c:\Users\AB\Documents\my_projects\c#_projects\playgroud\obj\Debug\net7.0\playgroud.pdb
+c:\Users\AB\Documents\my_projects\c#_projects\playgroud\obj\Debug\net7.0\playgroud.genruntimeconfig.cache
+c:\Users\AB\Documents\my_projects\c#_projects\playgroud\obj\Debug\net7.0\ref\playgroud.dll

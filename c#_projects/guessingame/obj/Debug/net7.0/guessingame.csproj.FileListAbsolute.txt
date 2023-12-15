@@ -1,0 +1,15 @@
+c:\Users\AB\Documents\my_projects\c#_projects\guessingame\obj\Debug\net7.0\guessingame.csproj.AssemblyReference.cache
+c:\Users\AB\Documents\my_projects\c#_projects\guessingame\obj\Debug\net7.0\guessingame.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\AB\Documents\my_projects\c#_projects\guessingame\obj\Debug\net7.0\guessingame.AssemblyInfoInputs.cache
+c:\Users\AB\Documents\my_projects\c#_projects\guessingame\obj\Debug\net7.0\guessingame.AssemblyInfo.cs
+c:\Users\AB\Documents\my_projects\c#_projects\guessingame\obj\Debug\net7.0\guessingame.csproj.CoreCompileInputs.cache
+c:\Users\AB\Documents\my_projects\c#_projects\guessingame\bin\Debug\net7.0\guessingame.exe
+c:\Users\AB\Documents\my_projects\c#_projects\guessingame\bin\Debug\net7.0\guessingame.deps.json
+c:\Users\AB\Documents\my_projects\c#_projects\guessingame\bin\Debug\net7.0\guessingame.runtimeconfig.json
+c:\Users\AB\Documents\my_projects\c#_projects\guessingame\bin\Debug\net7.0\guessingame.dll
+c:\Users\AB\Documents\my_projects\c#_projects\guessingame\bin\Debug\net7.0\guessingame.pdb
+c:\Users\AB\Documents\my_projects\c#_projects\guessingame\obj\Debug\net7.0\guessingame.dll
+c:\Users\AB\Documents\my_projects\c#_projects\guessingame\obj\Debug\net7.0\refint\guessingame.dll
+c:\Users\AB\Documents\my_projects\c#_projects\guessingame\obj\Debug\net7.0\guessingame.pdb
+c:\Users\AB\Documents\my_projects\c#_projects\guessingame\obj\Debug\net7.0\guessingame.genruntimeconfig.cache
+c:\Users\AB\Documents\my_projects\c#_projects\guessingame\obj\Debug\net7.0\ref\guessingame.dll
